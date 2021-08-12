@@ -18,6 +18,7 @@
 
 ` 7 ` **Ticket Handler** : Who have access to the tickets opened in #support.
 
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ` ● ` ___LEVEL UP ROLES___ :-
 
