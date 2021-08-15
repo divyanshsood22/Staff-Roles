@@ -66,4 +66,6 @@
 
 ` 6 ` **Sponsor** : People who sponsor giveaways or events.
 
-` 7 ` **Designer** : People who make banners, emojis, stickers, backgrounds for the server.
+` 7 ` **Artists** : Artists who perform in events. 
+
+` 8 ` **Designer** : People who make banners, emojis, stickers, backgrounds for the server.
