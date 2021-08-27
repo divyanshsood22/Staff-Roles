@@ -38,7 +38,7 @@
 
 ` 7 ` **Soldier 50+** : Gives DJ role to access exclusive perms of music bots.
 
-` 8 ` **Enforcer 60+** : Gives Dyno AFK perms.
+` 8 ` **Enforcer 60+** : Gives Skyra AFK perms.
 
 ` 9 ` **Pro 70+** : Attach Files in #chatting.
 
