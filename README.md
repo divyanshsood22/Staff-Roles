@@ -4,7 +4,7 @@
 
 ` ● ` ___STAFF ROLES___ :-
 
-` 1 ` **Owner** : Server Owner i.e. `Divyansh Sood`. 
+` 1 ` **Owner** : Server Owner i.e. `Divyansh Sood`. UUID - **74229679458680836**
 
 ` 2 ` **Management** : Looks after all core activities related to Divyansh.
 
