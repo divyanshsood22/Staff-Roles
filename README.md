@@ -14,9 +14,9 @@
 
 ` 5 ` **Minecraft Team** : Manages our Gamers SMP.
 
-` 6 ` **Sr. Moderator** : Moderator with Kick/Warn/mute perms.
+` 6 ` **Sr. Mods** : Moderator with Kick/Warn/mute perms.
 
-` 7 ` **Jr. Moderator** : Type of trial staff with kick/warn perms.
+` 7 ` **Jr. Modsr** : Type of trial staff with kick/warn perms.
 
 ` 8 ` **Ticket Handler** : Who have access to the tickets opened in #support.
 
@@ -58,14 +58,14 @@
 
 ` 2 ` **Creators** : Creators with 5k+ Subscribers.
 
-` 3 ` **Developer** : The developers of the bots we are using in the server.
+` 3 ` **Developers** : The developers of the bots we are using in the server.
 
 ` 4 ` **Honorable Guest** :  Special guest of the server.
 
 ` 5 ` **Contributers** : People who support server with premium bots.
 
-` 6 ` **Sponsor** : People who sponsor giveaways or events.
+` 6 ` **Sponsors** : People who sponsor giveaways or events.
 
 ` 7 ` **Artists** : Artists who perform in events. 
 
-` 8 ` **Designer** : People who make banners, emojis, stickers, backgrounds for the server.
+` 8 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
