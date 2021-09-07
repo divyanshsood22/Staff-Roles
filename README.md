@@ -64,8 +64,6 @@
 
 ` 5 ` **Contributers** : People who support server with premium bots.
 
-` 6 ` **Sponsors** : People who sponsor giveaways or events.
+` 6 ` **Artists** : Artists who perform in events. 
 
-` 7 ` **Artists** : Artists who perform in events. 
-
-` 8 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
+` 7 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
