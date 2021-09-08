@@ -14,11 +14,9 @@
 
 ` 5 ` **Minecraft Team** : Manages our Gamers SMP.
 
-` 6 ` **Sr. Mods** : Moderator with Kick/Warn/mute perms.
+` 6 ` **Trainees** : People whom Mod Apply Form has been accepted.
 
-` 7 ` **Jr. Modsr** : Type of trial staff with kick/warn perms.
-
-` 8 ` **Ticket Handler** : Who have access to the tickets opened in #support.
+` 7 ` **Ticket Handler** : Who have access to the tickets opened in #support.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
