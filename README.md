@@ -16,7 +16,7 @@
 
 ` 6 ` **Trainees** : People whom Mod Apply Form has been accepted.
 
-` 7 ` **Ticket Handler** : Who have access to the tickets opened in #support.
+` 7 ` **Ticket Handler** : Who have access to the tickets opened in [#support](https://discord.com/channels/774866113888256004/837539018181967902).
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
@@ -38,7 +38,7 @@
 
 ` 8 ` **Enforcer 60+** : Gives Dyno AFK perms.
 
-` 9 ` **Pro 70+** : Attach Files in #chatting.
+` 9 ` **Pro 70+** : Attach Files in [#chatting](https://discord.com/channels/774866113888256004/807191696303063062).
 
 ` 10 ` **Leader 80+** : Access to Embed.
 
