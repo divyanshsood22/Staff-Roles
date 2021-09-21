@@ -38,7 +38,7 @@
 
 ` 8 ` **Enforcer 60+** : Gives Dyno AFK perms.
 
-` 9 ` **Pro 70+** : Attach Files in [#chatting](https://discord.com/channels/774866113888256004/807191696303063062).
+` 9 ` **Pro 70+** : Attach Files in GIFS in all Channels.
 
 ` 10 ` **Leader 80+** : Access to Embed.
 
