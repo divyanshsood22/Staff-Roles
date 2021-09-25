@@ -12,11 +12,9 @@
 
 ` 4 ` **Staff Team** : Helps the co-ordinators.
 
-` 5 ` **Minecraft Team** : Manages our Gamers SMP.
+` 5 ` **Trainees** : People whom Mod Apply Form has been accepted.
 
-` 6 ` **Trainees** : People whom Mod Apply Form has been accepted.
-
-` 7 ` **Ticket Handler** : Who have access to the tickets opened in [#support](https://discord.com/channels/774866113888256004/837539018181967902).
+` 6 ` **Ticket Handler** : Who have access to the tickets opened in [#support](https://discord.com/channels/774866113888256004/837539018181967902).
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
@@ -58,7 +56,7 @@
 
 ` 3 ` **Developers** : The developers of the bots we are using in the server.
 
-` 4 ` **Honorable Guest** :  Special guest of the server.
+` 4 ` **Honorable Guests** :  Special guest of the server.
 
 ` 5 ` **Contributers** : People who support server with premium bots.
 
