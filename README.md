@@ -56,7 +56,7 @@
 
 ` 3 ` **Developers** : The developers of the bots we are using in the server.
 
-` 4 ` **Honorable Guests** :  Special guest of the server.
+` 4 ` **Honorable Guests** :  Special people known for their uniqueness.
 
 ` 5 ` **Contributers** : People who support server with premium bots.
 
