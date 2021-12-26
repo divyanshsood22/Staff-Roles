@@ -14,7 +14,7 @@
 
 ` 5 ` **Trainees** : People whom Mod Apply Form has been accepted.
 
-` 6 ` **Ticket Handler** : Who have access to the tickets opened in [#support](https://discord.com/channels/774866113888256004/837539018181967902).
+` 6 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed or else you will be given a special treatment from Tushar.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
@@ -63,3 +63,5 @@
 ` 6 ` **Artists** : Artists who perform in events. 
 
 ` 7 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
+
+` 8 ` **Partners** : People who have done partnership with us.
