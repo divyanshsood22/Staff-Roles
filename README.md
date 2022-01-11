@@ -14,8 +14,6 @@
 
 ` 5 ` **Trainees** : People whom Mod Apply Form has been accepted.
 
-` 6 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed or else you will be given a special treatment from Tushar.
-
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ` ● ` ___LEVEL UP ROLES___ :-
@@ -65,3 +63,5 @@
 ` 7 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
 
 ` 8 ` **Partners** : People who have done partnership with us.
+
+` 9 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed or else you will be given a special treatment from Tushar.
