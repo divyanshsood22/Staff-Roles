@@ -58,10 +58,12 @@
 
 ` 5 ` **Contributers** : People who support server with premium bots.
 
-` 6 ` **Artists** : Artists who perform in events. 
+` 6 ` **Youtubers** : Youtubers with 500+ Subscribers.
 
-` 7 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
+` 7 ` **Artists** : Artists who perform in events. 
 
-` 8 ` **Partners** : People who have done partnership with us.
+` 8 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
 
-` 9 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed or else you will be given a special treatment from Tushar.
+` 9 ` **Partners** : People who have done partnership with us.
+
+` 10 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed or else you will be given a special treatment from Tushar.
