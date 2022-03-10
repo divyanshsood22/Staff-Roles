@@ -8,11 +8,15 @@
 
 ` 2 ` **Management** : Looks after all core activities related to Divyansh.
 
-` 3 ` **Staff Co-ordinator** : Manages the server.
+` 3 ` **Server Managers** : Manages and upgrades the server.
 
-` 4 ` **Staff Team** : Helps the co-ordinators.
+` 4 ` **Staff Co-ordinator** : Manages the server.
 
-` 5 ` **Trainees** : People whom Mod Apply Form has been accepted.
+` 5 ` **Staff Team** : Helps the co-ordinators.
+
+` 6 ` **Designers** : Our designer team whcich makes all the designs.
+
+` 7 ` **Trainees** : People whom Mod Apply Form has been accepted.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
@@ -62,8 +66,8 @@
 
 ` 7 ` **Artists** : Artists who perform in events. 
 
-` 8 ` **Designers** : People who make banners, emojis, stickers, backgrounds for the server.
+` 8 ` **Partners** : People who have done partnership with us.
 
-` 9 ` **Partners** : People who have done partnership with us.
+` 9 ` **Customers** : People who buy designing stuff from us.
 
 ` 10 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed or else you will be given a special treatment from Tushar.
