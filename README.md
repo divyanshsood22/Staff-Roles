@@ -22,7 +22,7 @@
 
 ` ● ` ___LEVEL UP ROLES___ :-
 
-` 1 ` **Noob 5+** : Access to slash commands.
+` 1 ` **Noob 5+** : New Color.
 
 ` 2 ` **Grower 10+** : Get new color.
 
