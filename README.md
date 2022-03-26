@@ -10,13 +10,11 @@
 
 ` 3 ` **Server Managers** : Manages and upgrades the server.
 
-` 4 ` **Staff Co-ordinator** : Manages the server.
+` 4 ` **Staff Team** : Helps the co-ordinators.
 
-` 5 ` **Staff Team** : Helps the co-ordinators.
+` 5 ` **Designers** : Our designer team which makes all the designs.
 
-` 6 ` **Designers** : Our designer team which makes all the designs.
-
-` 7 ` **Trainees** : People whom Mod Apply Form has been accepted.
+` 6 ` **Trainees** : People whom Mod Apply Form has been accepted.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
