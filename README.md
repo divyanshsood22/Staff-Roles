@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/88816011/129174500-d3dd1c5d-b845-4806-b92f-d157196f0cfa.png)
+![Roles](https://user-images.githubusercontent.com/88816011/166412856-7add8fbf-fa72-456e-9250-b1d5ea14678e.png)
 
 # Roles | Divyansh Sood Discord Server
 
