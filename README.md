@@ -10,7 +10,7 @@
 
 ` 3 ` **Server Managers** : Manages and upgrades the server.
 
-` 4 ` **Staff Team** : Helps the co-ordinators.
+` 4 ` **Staff Team** : Maintains peace and non-toxic environment inside the server.
 
 ` 5 ` **Designers** : Our designer team which makes all the designs.
 
