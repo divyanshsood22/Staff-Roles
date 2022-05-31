@@ -4,9 +4,9 @@
 
 ` ● ` ___STAFF ROLES___ :-
 
-` 1 ` **Owner** : Server Owner i.e. `Divyansh Sood`. UUID - **74229679458680836**
+` 1 ` **Deadly Trios** : Server Owners i.e. `Divyansh Sood` `Tushar` `Jaimin`.
 
-` 2 ` **Management** : Looks after all core activities related to Divyansh.
+` 2 ` **Management** : Check all the activities and upgradation being done inside the server.
 
 ` 3 ` **Server Managers** : Manages and upgrades the server.
 
