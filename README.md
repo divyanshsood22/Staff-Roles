@@ -44,7 +44,7 @@
 
 ` 12 ` **God 100+** : Honorable title of being on top.
 
-` 13 ` **WTF 150+** : First person to reach here will get a nitro boost/classic.
+` 13 ` **WTF 150+** : First person to reach here will get a nitro boost.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
@@ -68,4 +68,6 @@
 
 ` 9 ` **Customers** : People who buy stuff from us.
 
-` 10 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed.
+` 10 ` **Meme Gods** : These Peeps take care of every member's health by making them laugh.
+
+` 11 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed.
