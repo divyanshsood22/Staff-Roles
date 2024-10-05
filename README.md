@@ -8,13 +8,13 @@
 
 ` 2 ` **Management** : Check all the activities and upgradation being done inside the server.
 
-` 3 ` **Server Managers** : Manages and upgrades the server.
+` 3 ` **Server Managers** : Manages and maintains the server.
 
 ` 4 ` **Staff Team** : Maintains peace and non-toxic environment inside the server.
 
-` 5 ` **Designers** : Our designer team which makes all the designs.
+` 5 ` **Designers** : Our designer team who do all the designing.
 
-` 6 ` **Trainees** : People whom Mod Apply Form has been accepted.
+` 6 ` **Trainees** : People who are in their training period for moderation.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
@@ -52,13 +52,13 @@
 
 ` 1 ` **OP Boosters** : Server nitro boosters.
 
-` 2 ` **Creators** : Creators with 5k+ Subscribers.
+` 2 ` **Creators** : Creators with 100k+ Subscribers.
 
 ` 3 ` **Developers** : The developers of the bots we are using in the server.
 
 ` 4 ` **Honorable Guests** :  Special people known for their uniqueness.
 
-` 5 ` **Contributers** : People who support server with premium bots.
+` 5 ` **Contributers** : People who support server financially.
 
 ` 6 ` **Youtubers** : Youtubers with 500+ Subscribers.
 
@@ -66,6 +66,6 @@
 
 ` 8 ` **Partners** : People who have done partnership with us.
 
-` 9 ` **Customers** : People who buy designing stuff from us.
+` 9 ` **Customers** : People who buy stuff from us.
 
-` 10 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed or else you will be given a special treatment from Tushar.
+` 10 ` **No Ping / No Tags / No DMs** : Special people that should not be disturbed.
