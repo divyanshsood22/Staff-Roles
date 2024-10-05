@@ -22,7 +22,7 @@
 
 ` 1 ` **Noob 5+** : New Color.
 
-` 2 ` **Grower 10+** : Get new color.
+` 2 ` **Grower 10+** : Access to External Soundboards.
 
 ` 3 ` **Hard Worker 15+** : External Stickers perm.
 
