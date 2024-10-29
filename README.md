@@ -60,7 +60,7 @@
 
 ` 5 ` **Contributers** : People who support server financially.
 
-` 6 ` **Youtubers** : Youtubers with 500+ Subscribers.
+` 6 ` **Youtubers** : Youtubers with 1k+ Subscribers.
 
 ` 7 ` **Artists** : Artists who perform in events. 
 
